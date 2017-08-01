@@ -37,6 +37,10 @@ body {
 	color: white;
 }
 
+.navbar-toggle {
+	color: white;
+}
+
 
 /*  */
 .thumbnail {
@@ -68,5 +72,6 @@ body {
 .flex {
 	display: flex;
 	flex-wrap: wrap;
+	
 }
 
