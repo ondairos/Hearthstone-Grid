@@ -39,6 +39,11 @@ body {
 
 .navbar-toggle {
 	color: white;
+	border: 0px solid white;
+}
+
+.navbar-inverse .navbar-toggle {
+   border: 0px solid white;
 }
 
 
