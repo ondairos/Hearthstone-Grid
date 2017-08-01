@@ -1,0 +1,73 @@
+body {
+	padding-top: 70px;
+	background-image: url("ghoulback.jpg");
+}
+
+.container {
+	/* margin-left: 10px;
+	margin-right: 10px; */
+	align-content: center;
+	width: 85%;
+	
+}
+
+.jumbotron {
+	color: white;
+	background: rgba(236, 240, 241, 0);
+	text-align: center;
+}
+
+.jumbotron h1 {
+	font-size: 100px;
+}
+
+.jumbotron p {
+	font-size: 30px;
+}
+
+.navbar-inverse {
+	background: #2c3e50;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}
+
+
+/*  */
+.thumbnail {
+	border: 0px solid white;
+	background-color : transparent;
+}
+
+
+.thumbnail img {
+	height: auto;
+	width: auto;
+	
+}
+
+.footCont {
+	border-top: 2px solid black;
+}
+
+.footer {
+	margin: auto;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+}
+
+
+/*  */
+
+.flex {
+	display: flex;
+	flex-wrap: wrap;
+	background: rgba(0, 0, 0, 0.7);
+}
+
