@@ -67,7 +67,7 @@ body {
 .footer {
 	margin: auto;
 	text-align: center;
-	color: white;
+	color: rgb(9, 20, 30);
 	font-weight: bold;
 }
 
@@ -80,3 +80,7 @@ body {
 	
 }
 
+#valeera img {
+	height: 500px;
+	width: 150%;
+}
